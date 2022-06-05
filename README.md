@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Exodox00
 - 👀 I’m interested in ...Programacion 
-- 🌱 I’m currently learning : Ciencias computacionales 
+- 🌱 I’m currently learning :  Computacion cientifica 
 - 📫 How to reach me : cristianjose9824e@gmail.com
 
 
